@@ -1,0 +1,21 @@
+# Jekyll configuration for GitHub Pages
+
+include: [".xml"]
+
+# Other essential Jekyll configurations
+# Base URL for the site
+baseurl: ""
+
+# Title of your site
+title: "Radiotest"
+
+# Author information
+author:
+  name: "Radio Crete"
+  email: "support@radio-crete.com"
+
+# Adding permalinks to the posts
+permalink: /:title/
+
+# Description of the site
+description: "A test site for serving XML files.
